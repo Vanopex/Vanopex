@@ -1,4 +1,4 @@
-class Vanopex {
+`[#f03c15] class Vanopex {
     constructor(options) {
         this.name = "emir",
         this.job = "student",
@@ -11,4 +11,4 @@ class Vanopex {
     };
 }
 
-module.exports = Vanopex
+module.exports = Vanopex`
